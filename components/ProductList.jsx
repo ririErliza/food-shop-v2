@@ -1,5 +1,7 @@
-import styles from "../styles/ProductList.module.css";
+
 import ProductCard from "./ProductCard";
+import styles from '../styles/ProductList.module.css'
+
 
 const ProductList = () => {
   return (
